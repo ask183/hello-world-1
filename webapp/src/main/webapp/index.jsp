@@ -9,7 +9,7 @@
     <br>
 
     <label for="homeaddress"><b>Enter address</b></label>
-    <input type="text" placeholder="Enter home address" name="homeaddress" id="homeaddress" required>
+    <input type="text" placeholder="Enter your home address" name="homeaddress" id="homeaddress" required>
     <br>
     
     <label for="mobile"><b>Enter mobile</b></label>
